@@ -1,0 +1,18 @@
+/*
+
+int u,v;
+
+if(y1==v && u<x1)
+orientare='l';
+else
+if(y1==v && u>x1)
+orientare='r';
+else
+if(x1==u && v<y1)
+orientare='f';
+else
+if(x1==u && v>y1)
+orientare='b';
+
+
+*/
